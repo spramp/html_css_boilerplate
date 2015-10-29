@@ -9,6 +9,7 @@ var mission = prompt( 'What is your mission?' );
 var contentContainer = document.getElementById( 'content' );
 
 contentContainer.innerHTML = username + ' is on a mission to ' + mission;
+
 }
 
 
